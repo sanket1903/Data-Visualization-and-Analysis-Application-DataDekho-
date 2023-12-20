@@ -17,9 +17,7 @@ Given data/analytics output, the tool can:-
 
 ## 📝 Module-Wise Description
 
-The application also uses Streamlit for a multiclass page implementation which can be viewed in the `multipage.py` file. The UI of the application can be seen here. The application is divided into multiple modules, each of which have been described below.
 
-![UI of the application](https://i.stack.imgur.com/MOVpz.png)
 
 
 _📌 **Data Upload**_ <br/>
