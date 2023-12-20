@@ -12,13 +12,16 @@ To address these issues, we envision creating a system capable of weaving a narr
 
 This tool possesses the capability to:
 
-Transform Data into Interactive Narratives: It converts raw data and analytics outputs into engaging and interactive data stories, offering a dynamic representation of the information.
+1. Transform Data into Interactive Narratives: It converts raw data and analytics outputs into engaging and interactive data stories, offering a dynamic representation of the information.
 
-Uncover Deep Insights and Patterns: Datadekho goes beyond surface-level analysis, delving into data to unearth profound insights, identify patterns, and contribute valuable information to aid in informed business decisions.
+2. Uncover Deep Insights and Patterns: Datadekho goes beyond surface-level analysis, delving into data to unearth profound insights, identify patterns, and contribute valuable information to aid in informed
+                                       business decisions.
 
-Create Personalized Profiles: The tool constructs personalized profiles for users, encapsulating metadata that outlines specific areas of interest. This ensures that the generated insights align with the individual preferences of each user.
+3. Create Personalized Profiles: The tool constructs personalized profiles for users, encapsulating metadata that outlines specific areas of interest. This ensures that the generated insights align with the
+                                 individual preferences of each user.
 
-Generate User-Friendly Reports: Datadekho produces reports that are not only comprehensive but also catered to business users. The reports feature an intuitive and interactive interface, simplifying the understanding of complex data and facilitating efficient decision-making processes.
+4. Generate User-Friendly Reports: Datadekho produces reports that are not only comprehensive but also catered to business users. The reports feature an intuitive and interactive interface, simplifying the
+                                   understanding of complex data and facilitating efficient decision-making processes.
 
 
 
